@@ -5,6 +5,8 @@ edition = "2021"
 description = "Tiny native shim that dispatches based on its own filename. Used by Taurio to expose .bat-free php.exe / composer.exe / etc."
 license = "MIT"
 repository = "https://github.com/version-two/dev.taurio.shim"
+authors = ["Version Two s.r.o. <info@versiontwo.sk>", "Mario Chamuty"]
+homepage = "https://www.versiontwo.sk"
 
 [[bin]]
 name = "taurio-shim"
